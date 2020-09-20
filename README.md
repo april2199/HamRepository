@@ -1,7 +1,7 @@
 # 19173044 양해민
 
 ## 2주차 과제
- <img width = "" height = "" src="./PNG/2주차.png"></img>
+ <img width = "" height = "" src="./PNG/2주차.PNG"></img>
 
 ## 3주차 과제
 
