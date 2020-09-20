@@ -1,3 +1,6 @@
-# HamRepository
+#19173044 양해민
 
-Hello My name is HaeMin
+##2주차 과제
+
+##3주차 과제
+
