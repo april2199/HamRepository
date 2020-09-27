@@ -7,5 +7,4 @@
  <img width = "" height = "" src="./PNG/3주차.PNG"></img>
 
 ## 4주차 과제
-  -'스크린샷을 정리해주는 앱'
   
