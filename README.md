@@ -21,5 +21,5 @@
   <img width = "" height = "" src="./PNG/7주차3.PNG"></img>
   
 ## 9주차 과제
-  <img width = "" height = "" src="./PNG/9주차1.PNG></img>
-  <img width = "" height = "" src="./PNG/9주차2.PNG></img>
+  <img width = "" height = "" src="./PNG/9주차1.PNG"></img>
+  <img width = "" height = "" src="./PNG/9주차2.PNG"></img>
