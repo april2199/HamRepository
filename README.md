@@ -40,3 +40,5 @@
   <img width = "" height = "" src="./PNG/12주차3.PNG"></img>
 ## 15주차 추가
   <img width = "" height = "" src="./PNG/15주차.1.PNG"></img>
+  졸업작품 제출하면서 추가한 부분 입니다. 
+  로그인 페이지에 이미지를 추가하였습니다.
